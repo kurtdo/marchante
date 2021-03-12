@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259748225294",
+    "firebase_url": "https://marchante-292421.firebaseio.com",
+    "project_id": "marchante-292421",
+    "storage_bucket": "marchante-292421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259748225294:android:13b00e8ea970b42d66b75f",
+        "android_client_info": {
+          "package_name": "agency.codelive.marchanteweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259748225294-lc24aud70rgtm3fkbsui4e362sr6f6cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPTIJDthS2TSIZvYGFO-L8vgB_NXdTVuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259748225294-lc24aud70rgtm3fkbsui4e362sr6f6cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
